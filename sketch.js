@@ -68,7 +68,7 @@ function setup() {
 
 function draw() {
 
-  background(rgb(130, 218, 232));
+  background("rgb(130, 218, 232)");
   
   monkey.collide(ground);
 
